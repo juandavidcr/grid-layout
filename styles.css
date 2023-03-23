@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.grid-layout{
+    display: grid;
+    grid-template-columns: 50% 23% auto;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    background-color:lightgreen;
+    padding: 1em;
+    border: 1px solid salmon;
+}
+
+.caja {
+   
+    background-color: aquamarine;
+    border: 4px solid black;
+    margin:7px;
+    text-align: center;
+    line-height: 150px;
+}
